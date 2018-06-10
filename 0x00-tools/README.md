@@ -1,0 +1,1 @@
+Hello holbertonschool-python-camp!
